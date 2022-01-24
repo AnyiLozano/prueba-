@@ -35,7 +35,7 @@ const Router = () => {
         }}
         to="carta"
       >
-        Portada
+        Carta
       </Link>
       <Routes>
         <Route path="/" element={<Home />} />
