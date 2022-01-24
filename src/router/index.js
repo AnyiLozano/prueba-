@@ -33,7 +33,7 @@ const Router = () => {
         onClick={() => {
           chooseLink("Carta");
         }}
-        to="carta"
+        to="/carta"
       >
         Carta
       </Link>
